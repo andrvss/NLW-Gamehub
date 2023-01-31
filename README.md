@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Interface social contendo games que sou jogador e streamers que acompanho, com links de redes associadas à meu nome.
 
-- [Visite o projeto online aqui](https://andrvss.github.io/League-of-Legends.LP/)
+- [Visite o projeto online aqui](https://andrvss.github.io/NLW-Gamehub/)
 
 ## 🔖 Layout
 
